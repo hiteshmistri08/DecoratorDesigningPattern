@@ -1,2 +1,1 @@
-# DecoratorDesigningPattern
-Decorator designing pattern
+# DesigningPatterns
